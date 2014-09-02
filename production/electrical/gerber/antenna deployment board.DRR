@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: antenna deployment board.PcbDoc   7/1/2014  11:56:16 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : antenna deployment board.TXT
+EIA File   : antenna deployment board.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        86.6mil (2.19964mm)      Round          2                0.39 Inch (10.00 mm)
+---------------------------------------------------------------------------
+Totals                                            2                0.39 Inch (10.00 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
